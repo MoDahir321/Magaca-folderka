@@ -1,2 +1,2 @@
-# Magaca-folderka
-ID:C1190000
+Name: mohamed dahir nur
+ID:C119392
